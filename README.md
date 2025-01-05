@@ -8,7 +8,7 @@ This presentation outlines an example of creating and responding to a Help Ticke
 # Engage with the created Ticket as an Agent
 
 <p>
-<img src="https://i.imgur.com/O2cG7Hf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3nol7XZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
