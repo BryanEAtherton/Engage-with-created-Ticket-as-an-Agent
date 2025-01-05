@@ -26,10 +26,10 @@ This presentation outlines an example of creating and responding to a Help Ticke
 <br />
 
 <p>
-<img src="https://i.imgur.com/O2cG7Hf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EC5K5bw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+3. After selecting the Ticket we can oberve and change a number options as well as observe any related activity at the bottom of the page.
 </p>
 <br />
 
