@@ -11,9 +11,11 @@ This presentation outlines an example of creating and responding to a Help Ticke
 <img src="https://i.imgur.com/3nol7XZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1. From the osTicket Login page we will log in as the Agent created in the previous section, osTicket Post-Installation Configuration; Configure Agents.
 </p>
 <br />
+
+[Click here to view osTicket Post-Installation Configuration; Configure Agents](https://github.com/BryanEAtherton/Configure-Agents?tab=readme-ov-file)
 
 <p>
 <img src="https://i.imgur.com/O2cG7Hf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
