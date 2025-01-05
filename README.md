@@ -18,10 +18,10 @@ This presentation outlines an example of creating and responding to a Help Ticke
 [Click here to view osTicket Post-Installation Configuration; Configure Agents](https://github.com/BryanEAtherton/Configure-Agents?tab=readme-ov-file)
 
 <p>
-<img src="https://i.imgur.com/MotQAav.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/J17vVdn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-2. After signing in we can observe the created Ticket on the Agent's Ticket page.
+2. After signing in we can observe the created Ticket on the Agent's Ticket page and select the Ticket by clicking the Ticket number.
 </p>
 <br />
 
