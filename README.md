@@ -29,15 +29,15 @@ This presentation outlines an example of creating and responding to a Help Ticke
 <img src="https://i.imgur.com/EC5K5bw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-3. After selecting the Ticket we can oberve and change a number options as well as observe any related activity at the bottom of the page.
+3. After selecting the Ticket, we can observe and change several options, as well as any related activity, at the bottom of the page.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/O2cG7Hf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wEn0Qp9.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+4. By Selecting the Assigned To Feild from the previous slide...
 </p>
 <br />
 
