@@ -37,14 +37,39 @@ This presentation outlines an example of creating and responding to a Help Ticke
 <img src="https://i.imgur.com/wEn0Qp9.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-4. By Selecting the Assigned To Feild from the previous slide...
+---4. By Selecting the Assigned To Feild from the previous slide...---
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/O2cG7Hf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ue8GOhH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+---5. Re-assigned Ticket to Online Banking---
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/ue8GOhH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/ue8GOhH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/ue8GOhH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+</p>
+<br />
+
