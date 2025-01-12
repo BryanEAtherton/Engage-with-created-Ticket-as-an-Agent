@@ -45,7 +45,7 @@ This presentation outlines an example of creating and responding to a Help Ticke
 <img src="https://i.imgur.com/ue8GOhH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
----5. Re-assigned Ticket to Online Banking---
+5. Observe the ticket Re-assigned to Online Banking.
 </p>
 <br />
 
