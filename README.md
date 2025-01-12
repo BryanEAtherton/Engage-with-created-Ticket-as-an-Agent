@@ -62,18 +62,18 @@ This presentation outlines an example of creating and responding to a Help Ticke
 <br />
 
 <p>
-<img src="https://i.imgur.com/ue8GOhH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7GLkGWf.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-</p>
+8. Here is an example of a response to the client about updates to the Ticket. 
 <br />
 
 <p>
-<img src="https://i.imgur.com/ue8GOhH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UUPjymd.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+9. Here we  can see the Agent's response posted on the ticket thread.
 </p>
 <br />
 
+[Click here to go back to the osTicket: Ticket Lifecycle Examples Homepage](https://github.com/BryanEAtherton/osTicket-Ticket-Life-Cycle-Example-)
