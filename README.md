@@ -21,7 +21,7 @@ This presentation outlines an example of creating and responding to a Help Ticke
 <img src="https://i.imgur.com/J17vVdn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-2. After signing in we can observe the created Ticket on the Agent's Ticket page and select the Ticket by clicking the Ticket number.
+2. After signing in, we can observe the created Ticket on the Agent's Ticket page and select it by clicking the Ticket number.
 </p>
 <br />
 
@@ -37,7 +37,7 @@ This presentation outlines an example of creating and responding to a Help Ticke
 <img src="https://i.imgur.com/wEn0Qp9.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p
 <p>
-4. By Selecting the Assigned To field from the previous slide we can change the Team this ticket is assigned to.
+4. By Selecting the Assigned To field from the previous slide we can change the Team this ticket is assigned to. We will assign it to the Team we created in osTicket Post-Installation Configuration; Configure Teams
 </p>
 <br />
 
@@ -47,9 +47,11 @@ This presentation outlines an example of creating and responding to a Help Ticke
 <img src="https://i.imgur.com/cxSUCu2.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-5. By selecting the SLA Plan field we can change the severity of the SLA level.
+5. By selecting the SLA Plan field we can change the severity of the SLA level that we created in osTicket Post-Installation Configuration; Configure SLAs.
 </p>
 <br />
+
+[Click here to view osTicket Post-Installation Configuration; Configure SLAs](https://github.com/BryanEAtherton/Configure-SLA)
 
 <p>
 <img src="https://i.imgur.com/j8taS5o.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
