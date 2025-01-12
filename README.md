@@ -29,7 +29,7 @@ This presentation outlines an example of creating and responding to a Help Ticke
 <img src="https://i.imgur.com/EC5K5bw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-3. After selecting the Ticket, we can observe and change several options, as well as any related activity, at the bottom of the page.
+3. After selecting the Ticket, we can observe and change several options, and view any related activity at the bottom of the page.
 </p>
 <br />
 
@@ -40,6 +40,8 @@ This presentation outlines an example of creating and responding to a Help Ticke
 4. By Selecting the Assigned To field from the previous slide we can change the Team this ticket is assigned to.
 </p>
 <br />
+
+[Click here to view osTicket Post-Installation Configuration; Configure Teams](https://github.com/BryanEAtherton/Configure-Teams/tree/main)
 
 <p>
 <img src="https://i.imgur.com/cxSUCu2.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
