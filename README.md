@@ -35,9 +35,9 @@ This presentation outlines an example of creating and responding to a Help Ticke
 
 <p>
 <img src="https://i.imgur.com/wEn0Qp9.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+</p
 <p>
----4. By Selecting the Assigned To Feild from the previous slide...---
+4. By Selecting the Assigned To Field from the previous slide we can change the Team this ticket is assigned to.
 </p>
 <br />
 
